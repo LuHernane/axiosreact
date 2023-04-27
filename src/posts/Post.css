@@ -1,0 +1,8 @@
+.blog {
+  margin: 100px;
+  padding: 50px;
+  text-align: center;
+}
+.blog p::first-letter {
+  text-transform: uppercase;
+}
